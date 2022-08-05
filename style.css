@@ -1,4 +1,12 @@
+body {
+	background: #CCCCCC
+}
 
 p {
+	font-size: 20px;
 	text-align: center;
+}
+
+em strong {
+	color: darkred;
 }
